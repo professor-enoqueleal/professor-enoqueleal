@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enoqueleal/)](https://www.linkedin.com/in/enoqueleal/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/enoquefsleal)](https://twitter.com/enoquefsleal)
 [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/enoqueleal)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@professorenoqueleal)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@enoque-dev)
 
 ## About me
 
@@ -15,7 +15,6 @@ Minhas linguagens de programação favoritas:
 
 - **Java**
 - **Go**
-- **Python**
 
 Apesar de conhecer um pouquinho e gostar de algumas linguagens em particular, eu não sou apaixonado por nenhuma linguagem em especial. Eu prefiro resolver um problema complexo com uma linguagem antiquada, porém que seja adequada ao problema a ser resolvido.
 
